@@ -1,0 +1,13 @@
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.chat{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    flex-direction: column;
+}

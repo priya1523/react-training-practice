@@ -1,0 +1,16 @@
+.first-comp{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.second-comp{
+    border: 2px black solid;
+    background-color:bisque;
+    padding: 20px;                 
+}
+
+.third-comp{
+    border: 2px red solid;
+    background-color: cadetblue;
+    padding: 20px;
+}
